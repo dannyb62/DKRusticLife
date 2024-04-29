@@ -1,0 +1,32 @@
+320201IllfollowJ#sus!gc
+
+420204IllfollowJ#sus!gc
+
+4d3d2e - NAV brown
+
+fffaf0 orig header
+
+header {
+position: relative;
+width: 940px;
+height: 200px;
+margin: 0 auto;
+background-color: #788989;
+background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#585858), to(#494949));
+background: -moz-linear-gradient(top, #585858 0%, #494949 100%);
+}
+
+B80D00 red shadow
+
+FFFAF0 main light
+
+OTW.html
+OL.html
+REC.html
+SIGHTS.html
+CONNECTING.html
+ABOUT
+RENTAL
+SERVICES
+PRODUCTS
+CONTACT
